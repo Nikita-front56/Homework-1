@@ -1,0 +1,115 @@
+.text-1 {
+    font-family: "Open Sans", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 20px;
+    line-height: 30px;
+}
+
+.text-2 {
+    font-family: "Lora", serif;
+    font-weight: 600;
+}
+
+.text-3 {
+    text-decoration: line-through;
+}
+
+.text-4 {
+    font-size: 20px;
+    font-family: "Gowun Batang", serif;
+    font-weight: 600;
+    text-align: center;
+}
+
+.text-5 {
+    text-decoration: overline wavy green;
+    color: rgb(14, 0, 78);
+    word-spacing: 30px;
+}
+
+.text-6 {
+    letter-spacing: 5px;
+    text-decoration: underline double;
+
+}
+
+.text-7 {
+    font-family: "Open Sans", sans-serif;
+    text-decoration: underline;
+    text-underline-offset: 4px;
+}
+
+.text-8 {
+    font-family: "Open Sans", sans-serif;
+    text-decoration: underline;
+    text-underline-offset: 4px;
+    text-decoration-thickness: 4px;
+    text-decoration-color: rgb(255, 0, 0);
+}
+
+.text-9 {}
+
+.head {
+    background: rgb(0, 0, 0);
+    height: 30px;
+}
+
+.one {
+    color: rgb(255, 255, 255);
+    text-decoration: line-through rgb(125, 179, 0);
+}
+
+.two {
+    color: rgb(255, 255, 255);
+    text-underline-offset: 6px;
+}
+
+.three {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+
+.four {
+    color: #ffffff;
+    text-decoration: none;
+
+}
+
+.four:hover {
+    text-decoration: underline;
+    text-underline-offset: 6px;
+}
+
+.five {
+    color: #ffffff;
+    text-decoration: underline double;
+    text-underline-offset: 6px;
+}
+
+.five:hover {
+    text-decoration: none;
+}
+
+.span-1 {
+    text-decoration: underline;
+    text-underline-offset: 4px;
+}
+
+.span-2 {
+    color: rgb(17, 0, 94);
+    font-style: italic;
+
+}
+
+.span-3 {
+    text-decoration: overline;
+
+}
+
+.span-4 {
+    font-family: "Open Sans", sans-serif;
+    font-style: italic;
+    text-decoration: rgb(255, 0, 0) line-through;
+}
