@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Open Sans';
+  src: local('Open Sans Condensed Medium'), local('OpenSansCondensed-Medium'),
+      url('../fons/OpenSansCondensed-Medium.woff2') format('woff2'),
+      url('../fons/OpenSansCondensed-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
